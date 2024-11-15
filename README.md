@@ -1,9 +1,10 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bold+600&size=25&duration=2000&color=4485D7&vCenter=true&multiline=true&repeat=false&width=700&height=100&separator=%3C&lines=Hello+there!+Welcome+to+my+Github+;))](https://git.io/typing-svg)
 
-<!--
-**Mandeepan/mandeepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+- 👋 I'm Mandy, a full stack software developer with a background in trading and structured finance. My work focuses on creating innovative software that optimizes liquidity and financial efficiency for fintech companies, bringing stability and better financial outcomes to users.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
