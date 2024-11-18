@@ -25,7 +25,7 @@ Passionate about international cuisine, inspired by experiences in China, Englan
 Enjoys staying active through hiking, pilates, playing badminton and golf.
 
 ### 📬 Contact Me
-[**LinkedIn**](https://www.linkedin.com/in/mandycpan/) | [**Email**](mailto:mandyphc@gmail.com) | [**Personal Website**](https://mandypan.io/)
+[**LinkedIn**](https://www.linkedin.com/in/mandycpan/)  |  [**Email**](mailto:mandyphc@gmail.com)  |  [**Personal Website**](https://mandypan.io/)
 
 
 
