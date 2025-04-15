@@ -17,7 +17,7 @@ I am a full stack software developer with a background in trading and structured
 - **Tools & Frameworks:** Git, VSCode, Snowflake, Docker, AWS, Bloomberg Terminal, Tableau, OpenBB, Spyder
 
 ### 📖 Currently Learning
-- **Coding Language & Tools:** AWS EC2, TypeScript, Basic Deep Learning (AI) Models
+- **Coding Language & Tools:** Deep Learning (AI) Models & Developing AI Agents
 - **Real Language:** French
 
 ### 🌟 Fun Facts
