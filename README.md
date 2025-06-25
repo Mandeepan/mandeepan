@@ -12,7 +12,7 @@ I am an experienced data leader with a background in trading and structured fina
 
 ### 👩🏻‍💻 Technical Skills
 - **Programming Languages:** Python, JavaScript, SQL, R, C++, VBA, Swift
-- **Web Development:** React, Redux, Flask, HTML, CSS, RESTful APIs, SQLAlchemy
+- **Web Development:** React, Redux, Flask, HTML, CSS, RESTful APIs, SQLAlchemy, LangChain, LangGraph
 - **Financial Modeling:** Sentiment Analysis, Time Series Analysis, Statistical Arbitrage, Value at Risk (VaR), 
 - **Tools & Frameworks:** Git, VSCode, Snowflake, Docker, AWS, Bloomberg Terminal, Tableau, OpenBB, Spyder
 
