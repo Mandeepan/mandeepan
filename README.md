@@ -1,31 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bold+600&size=25&duration=2000&color=4485D7&vCenter=true&multiline=true&repeat=false&width=800&separator=%3C&lines=Hello+there!+Welcome+to+my+Github+😊+)](https://git.io/typing-svg)
 
-### 👋 I'm Mandy, currently looking for the next job opportunity in the Finance Technology (FinTech) field.
-I am an experienced data leader with a background in trading and structured finance. My work focuses on creating systematic processes that optimize liquidity and financial efficiency for fintech companies, bringing stability and better financial outcomes to users.
+### 👋 I'm Mandy — I work at the intersection of capital strategy and automation in fintech.
+I structure asset-based finance and build the systems that run it. My work keeps companies well-funded as they scale, and turns manual finance processes into automation that protects margin and liquidity. Open to capital markets, treasury, and fintech roles where finance depth and building meet.
 
 ### 🥇 Key Achievements
-- Completed more than 1000 hours of rigorous software engineering training, gaining expertise in full-stack web development.
-- Developed a Robinhood Clone web application, showcasing proficiency in Python, Flask, JavaScript, React, and SQL.
-- Created an automated compliance reporting system leveraging Python and SQL, significantly enhancing financial process efficiency.
-- Applied AI language models to assess credit risks, effectively mitigating portfolio default risks.
-- Managing an algorithmic trading portfolio with a Sharpe ratio of 2.75, demonstrating strong quantitative and strategic acumen.
+- Automated a **compliance reporting pipeline** in Python and SQL, removing a full manual workload.
+- Applied **AI / LLM models to assess credit risk**, cutting default-risk assessment time by 80%.
+- Build full-stack financial web apps (e.g., a private-share trading platform) in Python, Flask, React, and SQL.
 
 ### 👩🏻‍💻 Technical Skills
-- **Programming Languages:** Python, JavaScript, SQL, R, C++, VBA, Swift
-- **Web Development:** React, Redux, Flask, HTML, CSS, RESTful APIs, SQLAlchemy, LangChain, LangGraph
-- **Financial Modeling:** Sentiment Analysis, Time Series Analysis, Statistical Arbitrage, Value at Risk (VaR), 
-- **Tools & Frameworks:** Git, VSCode, Snowflake, Docker, AWS, Bloomberg Terminal, Tableau, OpenBB, Spyder
-
-### 📖 Currently Learning
-- **Coding Language & Tools:** Deep Learning (AI) Models & Developing AI Agents
-- **Real Language:** French
+- **Programming Languages:** Python, SQL, JavaScript, R, C++, VBA, Swift
+- **Data & Cloud:** Snowflake, AWS, Tableau, Retool, Bloomberg Terminal, OpenBB
+- **Web Development:** React, Redux, Flask, SQLAlchemy, RESTful APIs
+- **Financial Modeling:** Time Series Analysis, Statistical Arbitrage, Sentiment Analysis, Value at Risk (VaR)
+- **Tools:** Git, VS Code, Cursor, Claude Code.
 
 ### 🌟 Fun Facts
-Passionate about international cuisine, inspired by experiences in China, England, and the US, with a deep appreciation for modern art. 
-Enjoys staying active through hiking, pilates, playing badminton and golf.
+- Fluent in English, Mandarin, and Cantonese; learning French.
+- Into modern art, hiking, pilates, badminton, and cooking across the cuisines of the places I've lived (China, England, the US).
 
 ### 📬 Contact Me
-[**LinkedIn**](https://www.linkedin.com/in/mandycpan/)  |  [**Email**](mailto:mandyphc@gmail.com)  |  [**Personal Website**](https://mandypan.io/)
+[**LinkedIn**](https://www.linkedin.com/in/mandycpan/)  |  [**Personal Website**](https://mandypan.io/)
 
 
 
